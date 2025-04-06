@@ -1,31 +1,24 @@
+# Portafolios QA Automatizadores
 
-<body>
+Bienvenid@ al repositorio principal donde se encuentran los portafolios del equipo QA Automatizadores.
 
-  <header>
-    <h1>Portafolios QA Automatizadores</h1>
-    <p>Conoce nuestros proyectos y experiencias</p>
-  </header>
+## 🔗 Enlaces de Portafolios
+- [Vanessa Mery Sanchez Ticona](https://vanessasanchez1.github.io/portafolio-vanessa)
+- <!-- Agrega aquí los demás enlaces -->
 
-  <main>
-    <div class="card">
-      <h2>Vanessa Mery Sanchez Ticona</h2>
-      <p>🔗 <a href="https://vanessasanchez1.github.io/portafolio-vanessa/" target="_blank">Ver Portafolio</a></p>
-      <p>💼 Analista QA Automatizador</p>
-    </div>
+## 🛠 Tecnologías utilizadas
+- HTML5
+- CSS3
+- JavaScript
 
-    <div class="card">
-      <h2>Nombre de tu compañero/a</h2>
-      <p>🔗 <a href="https://github.io/enlace-del-portafolio" target="_blank">Ver Portafolio</a></p>
-      <p>💼 Rol o especialización</p>
-    </div>
+## 📂 Estructura del proyecto
+```
+📁 portafolios-qa/
+├── index.html
+├── index.css
+├── index.js
+└── README.md
+```
 
-    <!-- Puedes seguir agregando más bloques similares para otros compañeros -->
-
-  </main>
-
-  <footer>
-    © 2025 QA Automatizadores - Todos los derechos reservados
-  </footer>
-
-</body>
-</html>
+## ✨ Cómo verlo en línea
+Este proyecto está alojado en GitHub Pages y puede verse en:
